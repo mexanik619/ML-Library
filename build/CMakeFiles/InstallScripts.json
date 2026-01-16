@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mikocat/Repos/MLlib/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

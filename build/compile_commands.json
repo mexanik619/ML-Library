@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mikocat/Repos/MLlib/build",
+  "command": "/usr/bin/g++ -isystem /usr/include/eigen3 -g -o CMakeFiles/MLlib.dir/src/main.cpp.o -c /home/mikocat/Repos/MLlib/src/main.cpp",
+  "file": "/home/mikocat/Repos/MLlib/src/main.cpp",
+  "output": "/home/mikocat/Repos/MLlib/build/CMakeFiles/MLlib.dir/src/main.cpp.o"
+}
+]
